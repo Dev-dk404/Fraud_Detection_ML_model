@@ -69,7 +69,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 - **Bias Mitigation**: Care was taken to ensure the model does not introduce bias in predictions.
 - **Privacy**: Encoded data ensures customer privacy is preserved.
-
-## Contact
-
-For any questions or issues, please contact [Your Name/Email].
